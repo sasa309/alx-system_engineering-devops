@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp/ mkdir my_first_directory/cd my_first_directory/touch file1
+cd /tmp/ mkdir my_first_directory/touch my_first_directory/file1
